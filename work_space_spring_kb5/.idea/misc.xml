@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/code_practice" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SpringMVC/pom.xml" />
+        <option value="$PROJECT_DIR$/01_SpringBasic/pom.xml" />
+        <option value="$PROJECT_DIR$/02_SpringDI_XML/pom.xml" />
+        <option value="$PROJECT_DIR$/04_MybatisForJava/pom.xml" />
+        <option value="$PROJECT_DIR$/03_SpringDI_Annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/07_SpringREST/pom.xml" />
+        <option value="$PROJECT_DIR$/08_SpringAOP/pom.xml" />
+        <option value="$PROJECT_DIR$/09_SpringWebSocket/pom.xml" />
+        <option value="$PROJECT_DIR$/10_SpringWebSocketStomp/pom.xml" />
+        <option value="$PROJECT_DIR$/11_SpringSecurityBasic/pom.xml" />
+        <option value="$PROJECT_DIR$/06_SpringAJAX/pom.xml" />
+        <option value="$PROJECT_DIR$/05_SpringMybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/20_SpringMVC/pom.xml" />
+        <option value="$PROJECT_DIR$/12_SpringSecurityJWT/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="temurin-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="com.multi.mvc.board.mapper.BoardMapper">
+
+
+
+
+
+
+
+
+	<update id="updateBoard" parameterType="com.multi.mvc.board.vo.Board">
+		update board set
+			 title=#{title}, content=#{content}, modify_date = current_timestamp
+		where bno = #{bno}
+	</update>
+
+	<update id="deleteBoard" parameterType="long">
+		delete from board where bno = #{bno}
+	</update>
+
+</mapper>
+
+
+
+

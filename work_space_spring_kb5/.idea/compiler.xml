@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rest" />
+        <module name="MVC (1)" />
+        <module name="MVC (2)" />
+        <module name="MVC (3)" />
+        <module name="04_MybatisForJava" />
+        <module name="MVC (4)" />
+        <module name="MVC (5)" />
+        <module name="MVC (6)" />
+        <module name="MVC (7)" />
+        <module name="MVC (8)" />
+        <module name="MVC (9)" />
+        <module name="MVC (10)" />
+        <module name="MVC" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.30/f195ee86e6c896ea47a1d39defbe20eb59cd149d/lombok-1.18.30.jar" />
+        </processorPath>
+        <module name="org.scoula.test.main" />
+        <module name="org.scoula.test.test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="code_practice" target="17" />
+      <module name="code_practice.main" target="17" />
+      <module name="mvc (1)" target="11" />
+      <module name="MVC (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mvc (1)" options="-Xlint:all" />
+      <module name="rest" options="-Xlint:all" />
+    </option>
+  </component>
+</project>
