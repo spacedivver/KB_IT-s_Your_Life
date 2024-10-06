@@ -10,5 +10,5 @@ import App4 from './App4.vue'
 // createApp(App1).mount('#app')
 // createApp(App2).mount('#app')
 // createApp(App3).mount('#app')
-createApp(App4).mount('#app')
+createApp(App3).mount('#app')
 
